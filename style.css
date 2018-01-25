@@ -1,0 +1,10 @@
+.time {
+    font-size: 50px;
+}
+
+.wrapper {
+    border: 1px solid gray;
+    width: 190px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
